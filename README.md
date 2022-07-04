@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://media2.giphy.com/media/1YI48cB3IHJJu/giphy.gif?cid=ecf05e47xnhmmpsfltgnn559x3vc56swwajmoz30qbunssto&rid=giphy.gif&ct=g" height = "100%" width="100%"></img>
+
 <!--
 **GimmeCyy/GimmeCyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
